@@ -8,6 +8,8 @@ venv/
 dist/
 build/
 *.egg-info/
+.learnings/
+reports/
 
 # Local model assets stay out of the public repository.
 model/*
