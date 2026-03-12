@@ -1,5 +1,0 @@
-{"id":"clear-child-1","label":true,"age_score":0.18,"child_probability":0.91,"female_probability":0.06,"male_probability":0.03}
-{"id":"clear-adult-1","label":false,"age_score":0.74,"child_probability":0.05,"female_probability":0.51,"male_probability":0.44}
-{"id":"borderline-child-1","label":true,"age_score":0.31,"child_probability":0.47,"female_probability":0.29,"male_probability":0.24}
-{"id":"borderline-adult-1","label":false,"age_score":0.33,"child_probability":0.34,"female_probability":0.33,"male_probability":0.33}
-{"id":"adult-false-positive-risk","label":false,"age_score":0.28,"child_probability":0.39,"female_probability":0.34,"male_probability":0.27}
