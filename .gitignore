@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.venv/
+venv/
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+
+# Local model assets stay out of the public repository.
+model/*
+!model/.gitignore
+
+# Temporary audio and logs
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+*.opus
+*.log
